@@ -20,5 +20,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "OEFKBar"
+rootProject.name = "BarPOS"
 include(":app")
