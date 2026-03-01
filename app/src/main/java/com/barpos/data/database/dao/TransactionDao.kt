@@ -1,7 +1,14 @@
 package com.barpos.data.database.dao
 
-import androidx.room.*
-import com.barpos.data.database.entity.*
+import androidx.room.Dao
+import androidx.room.Insert
+import androidx.room.Query
+import com.barpos.data.database.entity.CategorySalesData
+import com.barpos.data.database.entity.DailyRevenueData
+import com.barpos.data.database.entity.MemberSalesData
+import com.barpos.data.database.entity.ProductSalesData
+import com.barpos.data.database.entity.Transaction
+import com.barpos.data.database.entity.TransactionItem
 import kotlinx.coroutines.flow.Flow
 
 @Dao
