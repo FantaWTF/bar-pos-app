@@ -1,3 +1,5 @@
+@file:OptIn(ExperimentalMaterial3Api::class)
+
 package com.barpos.ui.admin.settings
 
 import androidx.compose.foundation.layout.*

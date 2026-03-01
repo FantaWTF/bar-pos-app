@@ -1,3 +1,5 @@
+@file:OptIn(ExperimentalMaterial3Api::class)
+
 package com.barpos.ui.admin.stats
 
 import androidx.compose.foundation.background

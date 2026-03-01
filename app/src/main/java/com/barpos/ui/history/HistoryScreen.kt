@@ -1,3 +1,5 @@
+@file:OptIn(ExperimentalMaterial3Api::class)
+
 package com.barpos.ui.history
 
 import androidx.compose.foundation.clickable
